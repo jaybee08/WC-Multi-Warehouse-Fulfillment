@@ -1,4 +1,4 @@
-# WC Multi-Warehouse Fulfillment (Interview) v0.1.4
+# WC Multi-Warehouse Fulfillment (Interview) v0.1.5
 
 This is the original plugin structure + logic with a safe geocoding improvement:
 - Uses Google Geocoding if you set an API key (WooCommerce → Multi-Warehouse Settings)
